@@ -38,12 +38,9 @@
 - HTML and CSS
 - Webpack
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 ## 🚀 Live Demo <a name="live-demo"></a>
-
 
 - [Live Demo Link](https://ivanmvh.github.io/LEADERBOARD-IMVH/build/)
 
@@ -51,12 +48,9 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-
 To get a local copy up and running, follow these steps.
   - Clone o fork 
   - Run npm install
-
-
 
 ## 👥 Authors <a name="authors"></a>
 
@@ -66,22 +60,8 @@ To get a local copy up and running, follow these steps.
 - Twitter: [@imprivado](https://twitter.com/imprivado)
 - LinkedIn: [Iván Martínez von Halle](https://www.linkedin.com/in/ivan-martinez-von-halle/)
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FUTURE FEATURES -->
-
-## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
-
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
 
@@ -90,8 +70,6 @@ Contributions, issues, and feature requests are welcome!
 Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
 
@@ -102,16 +80,10 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
-
 I would like to thank...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
