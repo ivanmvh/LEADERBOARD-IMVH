@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/OscarFMdev/webpackSetup.git"
+    "url": "git+https://github.com/ivanmvh/LEADERBOARD-IMVH.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/OscarFMdev/webpackSetup/issues"
+    "url": "https://github.com/ivanmvh/LEADERBOARD-IMVH/issues"
   },
-  "homepage": "https://github.com/OscarFMdev/webpackSetup#readme",
+  "homepage": "https://github.com/ivanmvh/LEADERBOARD-IMVH#readme",
   "devDependencies": {
     "babel-eslint": "^10.1.0",
     "css-loader": "^6.7.1",
