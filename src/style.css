@@ -1,6 +1,7 @@
 html{
   box-sizing: border-box;
 }
+
 *,
 *:before,
 *:after{
@@ -8,18 +9,22 @@ html{
   margin: 0;
   padding: 0;
 }
+
 ul {
   list-style: none;
 }
+
 .main-heading {
   margin: 30px;
 }
+
 .sections-container {
   display: flex;
   align-items: center;
   justify-content: space-evenly;
   margin-top: 50px;
 }
+
 /* Leaderboard */
 .leaders {
   display: flex;
@@ -33,9 +38,11 @@ ul {
   display: flex;
   font-size: 20px;
 }
+
 .leader-0 {
   background-color: lightgray;
 }
+
 /*Input section*/
 .input-section,
 .leader-form {
@@ -44,6 +51,7 @@ ul {
   justify-content: center;
   row-gap: 10px;
 }
+
 .leader-form input {
   width: 20rem;
   height: 2rem;
@@ -56,6 +64,7 @@ button {
   padding: 1px 5px;
   box-shadow: 2px 5px;
 }
+
 .leaders-heading,
 .add-heading {
   font-size: 30px;
