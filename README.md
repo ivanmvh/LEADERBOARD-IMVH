@@ -1,47 +1,64 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+<a name="readme-top"></a>
 
-# LEADERBOARD-IMVH
+<div align="center">
+  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
+  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <br/>
 
-In this project I'll use Asynchronous Javascript to call an API and set the leaderboard of the best players. The main goals of this project are:
-- Use callbacks and promises.
-- Learn how to use proper ES6 syntax.
-- Use ES6 modules to write modular JavaScript.
-- Use webpack to bundle JavaScript.
+  <h3><b>LEADERBOARD-IMVH</b></h3>
 
-## Built With
+</div>
+
+<!-- TABLE OF CONTENTS -->
+
+# 📗 Table of Contents
+
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ (OPTIONAL)](#faq)
+- [📝 License](#license)
+
+<!-- PROJECT DESCRIPTION -->
+
+# 📖 [LEADERBOARD-IMVH] <a name="about-project"></a>
+
+**[The leaderboard website]** displays scores submitted by different players. It also allows you to submit your score. All data is preserved thanks to the external Leaderboard API service.
+
+## 🛠 Built With <a name="built-with"></a>
 
 - JavaScript
 - API
 - HTML and CSS
+- Webpack
 
-## Live Demo
 
-[Live Version](https://ivanmvh.github.io/LEADERBOARD-IMVH/build/)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Getting Started
 
-To get a local copy up and running follow these simple example steps.
+## 🚀 Live Demo <a name="live-demo"></a>
 
-### Prerequisites
-For this project you must have [node.js](https://nodejs.org/en/) installed.
-### Setup
-Run in the directory where you want to clone the repo:
-```sh
-git clone git@github.com:OscarFMdev/leaderboardProject.git
-```
-### Install
-Yo should install the node modules by running:
-```sh
-npm install
-```
-### Usage
-This project communicates with an API to show the Leaderboard, the user (you) can put the name of the leader and the score in the input.
-### Deployment
-After cloning the repository you must use npm start to see live version.
+
+- [Live Demo Link](https://ivanmvh.github.io/LEADERBOARD-IMVH/build/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+
+To get a local copy up and running, follow these steps.
+  - Clone o fork 
+  - Run npm install
 
 
 
-## Author
+## 👥 Authors <a name="authors"></a>
 
 👤 **Ivan Martinez von Halle**
 
@@ -50,19 +67,54 @@ After cloning the repository you must use npm start to see live version.
 - LinkedIn: [Iván Martínez von Halle](https://www.linkedin.com/in/ivan-martinez-von-halle/)
 
 
-## 🤝 Contributing
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+> Describe 1 - 3 features you will add to the project.
+
+- [ ] **[new_feature_1]**
+- [ ] **[new_feature_2]**
+- [ ] **[new_feature_3]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
 
-## Show your support
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-Give a ⭐️ if you like this project!
+<!-- SUPPORT -->
 
-## Acknowledgments
+## ⭐️ Show your support <a name="support"></a>
 
-## 📝 License
+If you like this project...
 
-This project is [MIT](./MIT.md) licensed.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+> Give credit to everyone who inspired your codebase.
+
+I would like to thank...
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
