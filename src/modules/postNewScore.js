@@ -1,4 +1,4 @@
-const postNewScore = async (user = '', score = 0, gameId = '0UlnJitfqGQD5uy8eJ6a') => {
+const postNewScore = async (user = '', score = 0, gameId = 'Q4cft8wpKdezWg6GZ6qV') => {
   const leader = {
     user,
     score,
