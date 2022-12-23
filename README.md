@@ -40,7 +40,7 @@
 ## 🛠 Built With <a name="built-with"></a>
 
 - JavaScript
-- API
+- [Leaderboard API Service](https://www.notion.so/Leaderboard-API-service-24c0c3c116974ac49488d4eb0267ade3)
 - HTML and CSS
 - Webpack
 
