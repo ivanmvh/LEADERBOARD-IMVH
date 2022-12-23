@@ -27,27 +27,31 @@ ul {
 }
 
 /* Leaderboard */
-.leaders {
+.scores-container {
+  margin: 10px;
+}
+
+.scores {
   display: flex;
   flex-direction: column;
   align-items: center;
   border: 2px solid black;
 }
 
-.leader-0,
-.leader-1 {
+.score-0,
+.score-1 {
   width: 30rem;
   display: flex;
   font-size: 20px;
 }
 
-.leader-0 {
+.score-0 {
   background-color: lightgray;
 }
 
 /* Input section */
 .input-section,
-.leader-form {
+.score-form {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -56,7 +60,7 @@ ul {
   padding: 10px;
 }
 
-.leader-form input {
+.score-form input {
   width: 20rem;
   height: 2rem;
 }
@@ -69,7 +73,7 @@ button {
   box-shadow: 2px 5px;
 }
 
-.leaders-heading,
+.scores-heading,
 .add-heading {
   font-size: 30px;
 }
