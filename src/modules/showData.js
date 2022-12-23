@@ -1,15 +1,4 @@
-const showData = (data) => {
-  data = [
-    {user: "ivan",
-     score: "100"
-    },
-    {user: "ivan",
-     score: "100"
-    },
-    {user: "ivan",
-     score: "100"
-    }
-  ]                                     
+const showData = (data) => {                     
   const scoresContainer = document.querySelector('.scores-container');
   scoresContainer.innerHTML = '';
   for (let i = 0; i < 10; i += 1) {
