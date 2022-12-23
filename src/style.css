@@ -71,10 +71,6 @@ ul {
   align-items: center;
 }
 
-.scores-container {
-  margin-top: 10px;
-}
-
 .score {
   width: 30rem;
   display: flex;
@@ -92,17 +88,18 @@ ul {
   border-radius: 5px;
   color: white;
   background-color: #a83297;
-  background: #7232a8;
 }
 
 .col-index {
   width: 10%;
   text-align: right;
 }
+
 .col-name {
   width: 70%;
   text-align: center;
 }
+
 .col-score {
   width: 10%;
   text-align: center;
