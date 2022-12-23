@@ -17,6 +17,12 @@
   - [🛠 Built With](#built-with)
   - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -46,11 +52,86 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- GETTING STARTED -->
+
 ## 💻 Getting Started <a name="getting-started"></a>
 
+
 To get a local copy up and running, follow these steps.
-  - Clone o fork 
-  - Run npm install
+
+### Prerequisites
+
+In order to run this project you need:
+
+
+> install Node.js
+> install VsCode or any of your favored code editor
+#### You have to have a knowledge of:
+> HTML/CSS/JavaScript
+> ES6
+> linters
+> webpack, and
+> git flow and GitHub flow
+
+
+
+### Setup
+
+
+
+```sh
+  cd my-folder
+  git git@github.com:ivanmvh/LEADERBOARD-imvh.git
+```
+
+### Install
+
+Install this project with:
+
+
+```sh
+  cd LEADERBOARD-IMVH
+  npm install
+  npm audit fix --force => (optional) to resolve node version conflict
+```
+
+
+### Usage
+
+To run the project, execute the following command:
+
+
+
+```sh
+  npm run build
+  npm start
+```
+
+
+### Run tests
+
+To run tests, run the following command:
+
+<!--
+Example command:
+
+```sh
+  bin/rails test test/models/article_test.rb
+```
+--->
+
+### Deployment
+
+You can deploy this project using:
+
+
+```sh
+    You can deploy this project using GitHub pages 
+```
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ## 👥 Authors <a name="authors"></a>
 
@@ -87,6 +168,6 @@ I would like to thank...
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./MIT.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
