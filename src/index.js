@@ -18,10 +18,11 @@ leaderForm.addEventListener('submit', async (e) => {
   leaderScore.value = '';
 });
 
-refreshScoresBtn.addEventListener('click', () => {
+refreshScoresBtn.addEventListener('click', async () => {
   getAllScoresData();
 });
 
+// on load the first time - get data and show it.
 getAllScoresData();
 
 
