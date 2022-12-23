@@ -1,4 +1,4 @@
-const showData = async (data) => {                     
+const showData = async (data) => {                    
   const scoresContainer = document.querySelector('.scores-container');
   scoresContainer.innerHTML = '';
   for (let i = 0; i < 15; i += 1) {

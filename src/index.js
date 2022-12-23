@@ -1,5 +1,5 @@
-import getAllScoresData from './modules/getServerData.js'; 
-import postNewScore from './modules/postNewScore';
+import getAllScoresData from './modules/getServerData.js';
+import postNewScore from './modules/postNewScore.js';
 import './style.css';
 
 // refresh button
@@ -24,5 +24,3 @@ refreshScoresBtn.addEventListener('click', async () => {
 
 // on load the first time - get data and show it.
 getAllScoresData();
-
-
